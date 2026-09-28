@@ -7,6 +7,7 @@ Format is as follows
 `{name}|||{number}\\`
 Name must be alphanumeic and may contain resonite rich text formatting
 Number must be purely alpha numeric and may contain * and #
+Remember to close out your colors with </color>
 
 # Some examples:
 ## Valid:
