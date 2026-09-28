@@ -1,6 +1,6 @@
 <color=#ea9dff>(Backend) Redd</color> ||| 7333\\
 Finneas Former ||| 3466327\\
-<color=yellow>(911 pizza delivery)<color=white> casts ||| 911\\
+<color=yellow>(911 pizza delivery)</color><color=white> casts</color> ||| 911\\
 SolacianAllie ||| 4407588699833\\
 myaow? ||| 123321\\
 <color=hero.green>Loic Tomatot</color> ||| 3366767\\
@@ -43,7 +43,7 @@ Cat's Cradle Collectable Card Shop ||| 2222\\
 GrandpaVape ||| #39\\
 Lexa Willowisp ||| 037L3X4\\
 ManiaDeluxe ||| *#*\\
-<color=#cb76d8>Robin Douglass ||| 8177240\\
+<color=#cb76d8>Robin Douglass</color> ||| 8177240\\
 Lamp ||| #*#\\
 Keiko ||| 1800ASS4CAT\\
 (Public Folder) FearedSlug7 ||| 777777\\
@@ -69,7 +69,7 @@ sctanf ||| PNKKITY\\
 PrProto2700 ||| 2700677\\
 Moriko ||| 5948230\\
 Deb_Ish1 ||| 1977\\
-<color=white>Ace ⬛ ||| 19822317\\
+<color=white>Ace ⬛</color> ||| 19822317\\
 Kav_Extraspace ||| 577528397\\
 Revi ||| 2868487\\
 Kazadee ||| 112645\\
@@ -79,8 +79,8 @@ WebHook ||| 762569\\
 Zadkiel115 ||| 115\\
 Koy_o_T (coshote) ||| 316730\\
 Etoxxy ||| 8675309\\
-<color=#c4e6ff>Noble ||| 364\\
-<color=red>CharonFaustinus ||| 832768\\
+<color=#c4e6ff>Noble</color> ||| 364\\
+<color=red>CharonFaustinus</color> ||| 832768\\
 kaestral ||| NUMBER\\
 anquietas-sys ||| 2056\\
 GreyFoxen ||| 61524\\
@@ -92,37 +92,37 @@ mr_soup ||| 756\\
 DeGooblin ||| 000\\
 Essie ||| 37743\\
 NovaFox21 ||| 509130327\\
-<color=hero.cyan>EuphieEuphoria ||| 117649\\
-<color=#8000ff>LuxKitty ||| 589\\
-<color=#ffd700>GoldyRaccoony ||| 755\\
+<color=hero.cyan>EuphieEuphoria</color> ||| 117649\\
+<color=#8000ff>LuxKitty</color> ||| 589\\
+<color=#ffd700>GoldyRaccoony</color> ||| 755\\
 NeoGote ||| 1800NEOGOTE\\
 Kibah ||| 614958\\
 L0K ||| 101\\
 Bmaan ||| 58837\\
-<color=#00ff97>Garfflesnark ||| 6967420\\
-<color=#ffcc7f>Miss Molly ||| 833\\
-<color=#ff90fa>Lieutenant <color=#78d5ff>Sparkles ||| 255144250\\
+<color=#00ff97>Garfflesnark</color> ||| 6967420\\
+<color=#ffcc7f>Miss Molly</color> ||| 833\\
+<color=#ff90fa>Lieutenant</color> <color=#78d5ff>Sparkles</color> ||| 255144250\\
 Obi 1 ||| 42424242\\
-<color=#0047ab>CPU0NRD ||| 99877668\\
+<color=#0047ab>CPU0NRD</color> ||| 99877668\\
 Quake ||| 314159\\
 Lee ||| 257\\
 Foxen's Fabrications ||| 61524514\\
-<color=#8e37b4>Cocoa ||| 26262\\
+<color=#8e37b4>Cocoa</color> ||| 26262\\
 AwesomeDolphin ||| 2161976\\
 Kyoto924 ||| 431254\\
-<color=#2c241d>Juspertinry ||| 69\\
+<color=#2c241d>Juspertinry</color> ||| 69\\
 Sleepywuffo ||| 1\\
 catboy ||| 1357\\
 yui ||| 4984\\
 basil.psd ||| 3\\
 Rustybot ||| 78789\\
 MilkyWonderhoy ||| 0422\\
-<color=hero.purple>Rosa ||| 863\\
+<color=hero.purple>Rosa</color> ||| 863\\
 alexboot ||| 2222299\\
 chromata ||| 24766282\\
 Jacobjt300 ||| 3002\\
 Jaxi~Chan ||| 88823\\
 Artbyo3 ||| 333\\
-<color=#00FF00>L<color=#FFFFFF>ynk_<color=#00FF00>W<color=#FFFFFF>yland ||| 112\\
+<color=#00FF00>L</color><color=#FFFFFF>ynk_</color><color=#00FF00>W</color><color=#FFFFFF>yland</color> ||| 112\\
 MsQuity ||| 619\\
 Clocktower ||| 112023\\
