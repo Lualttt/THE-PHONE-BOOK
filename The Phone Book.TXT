@@ -5,7 +5,7 @@ SolacianAllie ||| 4407588699833\\
 myaow? ||| 123321\\
 <color=hero.green>Loic Tomatot</color> ||| 3366767\\
 tricksterfox ||| 621\\
-Spatial ||| 111\\
+<color=Hero.purpleSpatial</color> ||| 111\\
 RandomHuman2020 ||| 7636\\
 T_ufy ||| 9000\\
 Rockman Rock ||| 8675309\\
