@@ -126,3 +126,4 @@ Artbyo3 ||| 333\\
 <color=#00FF00>L</color><color=#FFFFFF>ynk_</color><color=#00FF00>W</color><color=#FFFFFF>yland</color> ||| 112\\
 MsQuity ||| 619\\
 Clocktower ||| 112023\\
+<color=#a3ffff>Xau</color> ||| XAU
