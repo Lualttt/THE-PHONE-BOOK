@@ -127,3 +127,5 @@ Artbyo3 ||| 333\\
 MsQuity ||| 619\\
 Clocktower ||| 112023\\
 <color=#a3ffff>Xau</color> ||| XAU
+<color=red>RamblingTurian</color> ||| 0451\\
+<color=purple>ZoomDriver57</color> ||| 571824\\
